@@ -1,4 +1,4 @@
-package loblaw.image.compare.testing;
+package mkthakral.image.compare.testing;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
@@ -12,9 +12,9 @@ import java.util.Arrays;
 
 import org.junit.jupiter.api.Test;
 
-import loblaw.image.compare.constant.ImageUtilityConstants;
-import loblaw.image.compare.helper.ImageProcessor;
-import loblaw.image.compare.helper.format.ImageProcessOuput;
+import mkthakral.image.compare.constant.ImageUtilityConstants;
+import mkthakral.image.compare.helper.ImageProcessor;
+import mkthakral.image.compare.helper.format.ImageProcessOuput;
 
 /**
  * @author Mohit Kumar Description: This is a JUnit Test case to test Image

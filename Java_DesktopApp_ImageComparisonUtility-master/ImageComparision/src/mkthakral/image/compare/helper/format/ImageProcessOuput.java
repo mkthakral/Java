@@ -1,4 +1,4 @@
-package loblaw.image.compare.helper.format;
+package mkthakral.image.compare.helper.format;
 
 /**
  * @author Mohit Kumar

@@ -1,4 +1,4 @@
-package loblaw.image.compare.helper;
+package mkthakral.image.compare.helper;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
@@ -19,8 +19,8 @@ import java.util.stream.Stream;
 
 import javax.imageio.ImageIO;
 
-import loblaw.image.compare.constant.ImageUtilityConstants;
-import loblaw.image.compare.helper.format.ImageProcessOuput;
+import mkthakral.image.compare.constant.ImageUtilityConstants;
+import mkthakral.image.compare.helper.format.ImageProcessOuput;
 
 /**
  * @author Mohit Kumar

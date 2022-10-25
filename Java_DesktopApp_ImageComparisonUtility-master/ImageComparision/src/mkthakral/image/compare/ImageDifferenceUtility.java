@@ -1,4 +1,4 @@
-package loblaw.image.compare;
+package mkthakral.image.compare;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -12,9 +12,9 @@ import javax.swing.JPanel;
 import javax.swing.filechooser.FileFilter;
 import javax.swing.filechooser.FileSystemView;
 
-import loblaw.image.compare.constant.ImageUtilityConstants;
-import loblaw.image.compare.helper.ImageProcessor;
-import loblaw.image.compare.helper.format.ImageProcessOuput;
+import mkthakral.image.compare.constant.ImageUtilityConstants;
+import mkthakral.image.compare.helper.ImageProcessor;
+import mkthakral.image.compare.helper.format.ImageProcessOuput;
 
 /**
  * @author Mohit Kumar

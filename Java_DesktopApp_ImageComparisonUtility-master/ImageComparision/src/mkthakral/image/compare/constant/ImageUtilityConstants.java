@@ -1,4 +1,4 @@
-package loblaw.image.compare.constant;
+package mkthakral.image.compare.constant;
 
 /**
  * @author Mohit Kumar
