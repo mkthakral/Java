@@ -1,0 +1,2 @@
+First Working Version of Image Compare Utility
+Released on 30 Jan 2020
